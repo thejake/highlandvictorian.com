@@ -1,6 +1,16 @@
 box: debian
 build:
   steps:
+    # Setup git to support theme submodule
+    - script:
+        name: install git
+        code: |
+            apt-get update
+            apt-get install git -y
+        - script:
+            name: initialize git submodules
+            code: |
+                git submodule update --init --recursive
     - arjen/hugo-build:
         version: "0.17"
         theme: hugo-tranquilpeak-theme
