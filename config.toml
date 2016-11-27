@@ -14,7 +14,7 @@
 
 baseurl = "http://highlandvictorian.com/"
 languageCode = "en-us"
-title = "Restoring a classic victorian home in the Denver Highlands"
+title = "Life with a classic Denver victorian home"
 theme = "hugo-tranquilpeak-theme"
 # DisqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -30,7 +30,7 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Victorian in the Denver Highlands"
+  name = "highlandvictorian.com"
   bio = "Restoring an 1886 victorian"
   # job = "Your job title"
   location = "Denver Colorado"
