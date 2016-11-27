@@ -1,7 +1,11 @@
 box: debian
 build:
   steps:
-    # Setup git to support theme submodule
+    # Setup git and pull in theme submodule
+    - script:
+        name: install git
+        code: |
+          apt-get update && apt-get install git -y
     - script:
         name: initialize git submodule
         code: |
