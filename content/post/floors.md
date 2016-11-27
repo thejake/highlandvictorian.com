@@ -10,7 +10,8 @@ categories:
 
 Job number one before move-in was the floors.  It'll never be easier to refinish floors, than before the house is full of people, pets, and furniture.  The floors are the original western fir floors, with no subfloor.  If at all possible, we wanted to save the floors.  We solicited multiple 'quotes', and got as many opinions as quotes, as to whether there was enough worth saving.
 
-{{< image src="/images/floors/entryway-damage.jpg" classes="fancybox" group="floor" title="Fir floors had seen plenty of wear and tear" >}}
+{{< image src="/images/floors/entryway-damage.jpg" classes="fig-50 fancybox" group="floor" title="Fir floors had seen plenty of wear and tear" >}}
+{{< image src="/images/floors/entryway-damage2.jpg" classes="fig-50 fancybox nocaption clear" group="floor" title="Fir floors had seen plenty of wear and tear" >}}
 
 In addition to general wear & tear damage, there was a patch in the floor that used different lumber, made no attempt to color or grain match, and wasn't feathered into the other boards.  In other words - it looked like a hack-job, and it was in one of the most heavily trafficed parts of the house.
 
