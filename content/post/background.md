@@ -2,6 +2,7 @@
 title: "Some background on us"
 date: "2015-11-01T19:41:37-07:00"
 draft: true
+weight: -1
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /images/2015-exterior.jpg

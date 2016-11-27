@@ -14,6 +14,8 @@ Job number one before move-in was the floors.  It'll never be easier to refinish
 
 In addition to general wear & tear damage, there was a patch in the floor that used different lumber, made no attempt to color or grain match, and wasn't feathered into the other boards.  In other words - it looked like a hack-job, and it was in one of the most heavily trafficed parts of the house.
 
+{{< image src="/images/floors/hack-job.jpg" classes="fancybox" group="floor" title="An old floor patch needed some craftsmanship and some TLC" >}}
+
 While parts of the floor were beyond saving, we decided to save as much as we could, and give refinishing a try - knowing that these old floors had at most one more sanding left in them.  Rather than patch in new wood, we decided to tear out the area with the most damage (the entryway), and use some of the more well-preserved wood to repair damage elsewhere.
 
 {{< image src="/images/floors/entryway-salvage.jpg" classes="fancybox" group="floor" title="Getting wood to salvage from the entryway" >}}
@@ -26,9 +28,10 @@ Next up - the remaining fir.  As was commonplace in old Victorian homes, many pr
 
 {{< image src="/images/floors/paint-around-rug.jpg" classes="fancybox" group="floor" title="A previous owner had simply painted around their rugs" >}}
 
-The latext paint on the floor gunked up sanding disks in seconds (literally), causing far more time & materials than anticipated.  In addition, we decided to do it right, and move the enormous radiators (seen in the back of the far room above), which as it turns out, weigh more than a thousand pounds and can break a standard hard-cart.
+The latext paint on the floor gunked up sanding disks in seconds (literally), causing far more time & materials than anticipated.  {{< image src="/images/floors/paint-gunk.jpg" classes="fig-33 right nocaption fancybox" group="floor" title="Sanding disks don't like paint" >}} In addition, we decided to do it right, and move the enormous radiators (seen in the back of the far room above), which as it turns out, weigh more than a thousand pounds and can break a standard hard-cart.
 
-But as the job progressed, the life began to return to the floors.
+
+But as the job progressed, the life returned to the floors.
 
 {{< image src="/images/floors/refinish-progress1.jpg" classes="fancybox fig-50" group="floor" title="Cutting through the latext paint on the floors" >}}
 {{< image src="/images/floors/refinish-progress2.jpg" classes="fancybox fig-50" group="floor" title="Some final finishing sanding" >}}
