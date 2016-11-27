@@ -3,7 +3,7 @@ title: "DIY interior paint"
 draft: true
 date: "2015-12-02T19:41:37-07:00"
 thumbnailImagePosition: "right"
-thumbnailImage: /images/floors/entryway-damage.jpg
+thumbnailImage: /images/paint/bathroom-upstairs.jpg
 categories:
   - interior
 ---
