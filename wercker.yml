@@ -2,7 +2,10 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "HEAD"
+        version: "0.17"
+        theme: hugo-tranquilpeak-theme
+        flags: --buildDrafts=true
+
 deploy:
   steps:
     # Execute the s3sync deploy step, a step provided by wercker
