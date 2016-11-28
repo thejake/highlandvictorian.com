@@ -20,6 +20,7 @@ theme = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 Paginate = 7
 canonifyurls = true
+enableRobotsTXT = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
