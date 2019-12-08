@@ -9,5 +9,5 @@ categories:
   - exterior
 ---
 
-Temporary placeholder text
+Welcome to a little site about our Victorian home in the Denver Highlands, and our efforts to renovate this gem.
 
